@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\cards\cards\obj\Debug\net5.0\cards.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\cards\cards\obj\Debug\net5.0\cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\cards\cards\obj\Debug\net5.0\cards.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\cards\cards\obj\Debug\net5.0\cards.AssemblyInfo.cs
+C:\Users\user\source\repos\cards\cards\obj\Debug\net5.0\cards.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\cards\cards\bin\Debug\net5.0\cards.exe
+C:\Users\user\source\repos\cards\cards\bin\Debug\net5.0\cards.deps.json
+C:\Users\user\source\repos\cards\cards\bin\Debug\net5.0\cards.runtimeconfig.json
+C:\Users\user\source\repos\cards\cards\bin\Debug\net5.0\cards.runtimeconfig.dev.json
+C:\Users\user\source\repos\cards\cards\bin\Debug\net5.0\cards.dll
+C:\Users\user\source\repos\cards\cards\bin\Debug\net5.0\cards.pdb
+C:\Users\user\source\repos\cards\cards\obj\Debug\net5.0\cards.dll
+C:\Users\user\source\repos\cards\cards\obj\Debug\net5.0\refint\cards.dll
+C:\Users\user\source\repos\cards\cards\obj\Debug\net5.0\cards.pdb
+C:\Users\user\source\repos\cards\cards\obj\Debug\net5.0\cards.genruntimeconfig.cache
+C:\Users\user\source\repos\cards\cards\obj\Debug\net5.0\ref\cards.dll
